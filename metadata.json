@@ -1,0 +1,6 @@
+{
+  "name": "GraphSphere 3D",
+  "description": "Interactive 3D Graph Theory Learning, Modeling, Comparison and Algorithm Visualization Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
